@@ -1,3 +1,5 @@
+#TypeScript Knockout Starter
+
 This quick start guide will teach you how to wire up TypeScript with [Knockout.js](http://knockoutjs.com/).
 
 Note that this repository has already been setup following the below instructions, but feel free to reference them as needed.
